@@ -1,0 +1,94 @@
+
+.knitr {
+	font-family: "inconsolata", courier, 'courier new', monospace;
+	background-color: #F7F7F7;
+}
+.error {
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	font-weight: bold;
+	color: #FF0000;
+}
+.warning {
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	font-weight: bold;
+}
+.message {
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	font-style: italic;
+}
+.source, .output, .warning, .error, .message {
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	padding: 0.5em 1em;
+}
+.number{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	color: rgb(21,20,181) ;
+}
+
+.functioncall{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	color: rgb(32, 74, 147) ;
+}
+
+.string{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	color: rgb(78, 163, 113) ;
+
+}
+
+.keyword{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	font-weight: bolder ;
+	color: black;
+}
+
+.argument{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	color: rgb( 177,63,5) ;
+}
+
+.comment{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	color: rgb(146, 89, 2) ;
+}
+
+.roxygencomment{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	color: rgb(0,151,255);
+}
+
+.formalargs{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	color: rgb(18,182,18);
+}
+
+.eqformalargs{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	color: rgb(18,182,18);
+}
+
+.assignement{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	font-weight: bolder;
+	color: rgb(206, 92, 0);
+}
+
+.package{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	color: rgb(150,182,37);
+}
+
+.slot{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	font-style:italic;
+}
+
+.symbol{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	color: black ;
+}
+
+.prompt{
+	   font-family: "inconsolata", courier, 'courier new', monospace;
+	color: black ;
+}
